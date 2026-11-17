@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiniMed Pixel Bridge</string>
+    <string name="widget_description">Real-time Medtronic MiniMed 780G SG, Trend, Active Insulin (IOB), Carbs, Reservoir &amp; Battery telemetry.</string>
+    <string name="accessibility_service_description">Lê em tempo real a Glicemia (SG), Insulina Ativa (IOB), Hidratos (Refeição), Reservatório e Bateria diretamente da app MiniMed Mobile.</string>
+</resources>
